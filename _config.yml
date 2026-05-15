@@ -28,6 +28,7 @@ author:
   bio              : "Postdoctoral Scholar, Hoffmann Centre for Sustainable Development, IHEID."
   location         : "Geneva, Switzerland"
   employer         : "Geneva Graduate Institute (IHEID)"
+  employer_url     : "https://www.graduateinstitute.ch/discover-institute/francisco-eslava-saenz"
   uri              : # URL
   email            : "francisco.eslava@graduateinstitute.ch"
 
@@ -50,7 +51,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "franciscoeslavasaenz"
+  github           : # Username
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -85,12 +86,12 @@ author:
 publication_category:
   job_market:
     title: 'Job Market Paper'
-  published:
-    title: 'Published'
   working_papers:
     title: 'Working Papers'
   work_in_progress:
     title: 'Work in Progress'
+  published:
+    title: 'Published'
   predoctoral:
     title: 'Pre-doctoral Research'
 

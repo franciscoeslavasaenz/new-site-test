@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Seminars & Reading Groups"
+title: ""
 permalink: /seminars/
 author_profile: true
 ---
