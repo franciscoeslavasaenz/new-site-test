@@ -26,8 +26,8 @@ author:
   name             : "Francisco Eslava Sáenz"
   pronouns         : # example: "she/her"
   bio              : "Postdoctoral Scholar, Hoffmann Centre for Sustainable Development, IHEID."
-  location         : "Geneva, Switzerland"
-  employer         : "Geneva Graduate Institute (IHEID)"
+  location         : # "Geneva, Switzerland"
+  employer         : "Geneva Graduate Institute"
   employer_url     : "https://www.graduateinstitute.ch/discover-institute/francisco-eslava-saenz"
   uri              : # URL
   email            : "francisco.eslava@graduateinstitute.ch"
