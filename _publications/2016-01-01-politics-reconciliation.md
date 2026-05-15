@@ -9,5 +9,3 @@ date: 2016-01-01
 venue: 'Colombia en Movimiento 2010–2013–2016 (ed. Castaño), Ediciones Uniandes'
 paperurl: 'https://ideas.repec.org/p/col/000089/015896.html'
 ---
-
-[Working paper version](https://ideas.repec.org/p/col/000089/015896.html)
